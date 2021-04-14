@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![LinkedIn Badge](https://img.shields.io/badge/-ErikaSantana-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wendell-calixto/)](https://www.linkedin.com/in/erika-santana-8888a6189/)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=erikasantanaa&theme=dracula&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikasantanaa&theme=dracula&layout=compact&hide=html,css&langs_count=10)](https://github.com/WendellCalixtoo?tab=repositories)
+
+- :computer: Fron-End Developer
+
 <!--
 **erikasantanaa/erikasantanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
