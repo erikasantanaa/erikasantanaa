@@ -1,14 +1,14 @@
-## 💜 Hi, my name is Erika Santana
+## 💜 Olá, meu nome é Erika Santana
 
-### I'm a QA Tech Lead in the world of bugs
+### Sou QA Tech Lead no mundo dos bugs
 
-- 🏢 I'm currently working at **[PDCASE Informática](https://www.pdcase.com/index.html).**
-- ⚙️ I use daily: `Robot Framework`, `Postman`, `JMeter`
-- ⚡️ In my spare time I am a Front-end developer.
-- 🌱 Learning all about **test automation*
-- 👨‍💻 Current project [Test Robot Framework](https://github.com/erikasantanaa/Teste_Robot_Framework_orangehrm)
+- 🏢 Atualmente trabalho na **[PDCASE Informática](https://www.pdcase.com/index.html).**
+- ⚙️ Eu uso diariamente: `Robot Framework`, `Postman`, `JMeter`
+- ⚡️ Nas horas vagas sou desenvolvedor Front-end.
+- 🌱 Aprendendo tudo sobre **automação de testes*
+- 👨‍💻 Projeto atual [Test Robot Framework](https://github.com/erikasantanaa/Teste_Robot_Framework_orangehrm)
 
-### 🤝🏻 Connect with Me
+### 🤝🏻 Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/-erikasantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erika-santana-qa-developer/)](https://www.linkedin.com/in/erika-santana-qa-developer/)
 
 
