@@ -4,7 +4,7 @@
 
 - 🏢 Atualmente trabalho na **[PDCASE Informática](https://www.pdcase.com/index.html).**
 - ⚙️ Eu uso diariamente: `Robot Framework`, `Postman`, `JMeter`
-- ⚡️ Nas horas vagas sou desenvolvedor Front-end.
+- ⚡️ Nas horas vagas sou desenvolvedora Front-end.
 - 🌱 Aprendendo tudo sobre **automação de testes*
 - 👨‍💻 Projeto atual [Test Robot Framework](https://github.com/erikasantanaa/Teste_Robot_Framework_orangehrm)
 
