@@ -1,7 +1,5 @@
 ## 💜 Olá, meu nome é Erika Santana
 
-### Sou QA Tech Lead
-
 - 🏢 Atualmente trabalho na **[PDCASE Informática](https://www.pdcase.com/index.html).**
 - ⚙️ Eu uso diariamente: `Robot Framework`, `Postman`, `JMeter`
 - ⚡️ Nas horas vagas sou desenvolvedora Front-end.
