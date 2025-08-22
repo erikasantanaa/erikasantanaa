@@ -4,7 +4,7 @@
 - ⚙️ Eu uso diariamente: `Robot Framework`, `Postman`, `JMeter`
 - ⚡️ Nas horas vagas sou desenvolvedora Front-end.
 - 🌱 Aprendendo tudo sobre **automação de testes*
-- 👨‍💻 Projeto atual: [Estudos Docker - Teste Robot Framework](https://github.com/erikasantanaa/estudos-docker-robotframework)  
+- 👨‍💻 Projeto atual: [Estudos Automação de Testes E2E - Selenium WebDriver Java](https://github.com/erikasantanaa/Selenium-WebDriver-Java)  
 - 👨‍💻 Projeto concluído: [Teste Robot Framework](https://github.com/erikasantanaa/Teste_Robot_Framework_orangehrm)
   
 
