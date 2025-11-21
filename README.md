@@ -1,10 +1,9 @@
 ## 💜 Olá, meu nome é Erika Santana
 
-- 🏢 Atualmente trabalho na **[PDCASE Informática](https://www.pdcase.com/index.html).**
-- ⚙️ Eu uso diariamente: `Robot Framework`, `Postman`, `JMeter`
-- ⚡️ Nas horas vagas sou desenvolvedora Front-end.
-- 🌱 Aprendendo tudo sobre **automação de testes*
-- 👨‍💻 Projeto atual: [Estudos Automação de Testes E2E - Selenium WebDriver Java](https://github.com/erikasantanaa/Selenium-WebDriver-Java)  
+- ⚙️ Eu uso diariamente: `Robot Framework` `Cypress`, `Postman`
+- ⚡️ Nas horas vagas sou desenvolvedora Front-end: `Angular` 
+- 🌱 Aprendendo tudo sobre **automação de testes*, **Desenvolvimento Web FullStack*
+- 👨‍💻 Projeto atual: [Estudos Automação de Testes E2E - Cypress](https://github.com/erikasantanaa/Cypress-E2E) [Estudos Automação de Testes API - Cypress](https://github.com/erikasantanaa/cypress-teste-API) [Estudos JavaScript Intermediário ao Avançado](https://github.com/erikasantanaa/javascript-rogerMelo)   
 - 👨‍💻 Projeto concluído: [Teste Robot Framework](https://github.com/erikasantanaa/Teste_Robot_Framework_orangehrm)
   
 
