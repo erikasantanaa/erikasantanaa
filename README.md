@@ -1,7 +1,5 @@
 ## 💜 Olá, meu nome é Erika Santana
 
-- ⚙️ Eu uso diariamente: `Robot Framework` `Cypress`, `Postman`
-- ⚡️ Nas horas vagas sou desenvolvedora Front-end: `Angular` 
 - 🌱 Aprendendo tudo sobre **automação de testes*, **Desenvolvimento Web FullStack*
 - 👨‍💻 Projeto atual: [Estudos Automação de Testes E2E - Cypress](https://github.com/erikasantanaa/Cypress-E2E) [Estudos Automação de Testes API - Cypress](https://github.com/erikasantanaa/cypress-teste-API) [Estudos JavaScript Intermediário ao Avançado](https://github.com/erikasantanaa/javascript-rogerMelo)   
 - 👨‍💻 Projeto concluído: [Teste Robot Framework](https://github.com/erikasantanaa/Teste_Robot_Framework_orangehrm)
